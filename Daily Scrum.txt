@@ -6,4 +6,7 @@ We should:
 	Download a Python library to make it easier
 	Begin learning the library
 
-Nov. 21, 2019
+Nov. 20, 2019
+Get familiar with TensorFlow on RasPi.
+Use the tutorial online to do this.
+Practice using the basics of it in python.
