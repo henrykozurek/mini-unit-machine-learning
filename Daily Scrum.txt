@@ -1,0 +1,9 @@
+Nov. 19, 2019
+More research on neural networking.
+We have gotten a basic understanding of how machine learning works. 
+We need to begin implementing it and get a framework/walking skeleton.
+We should:
+	Download a Python library to make it easier
+	Begin learning the library
+
+Nov. 21, 2019
