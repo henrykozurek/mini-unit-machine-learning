@@ -10,3 +10,10 @@ Nov. 20, 2019
 Get familiar with TensorFlow on RasPi.
 Use the tutorial online to do this.
 Practice using the basics of it in python.
+
+Nov. 21, 2019
+We were having trouble downloading tensorflow on the raspi
+We have decided to use Google Colabs instead
+Today we are going to:
+Learn how to operate Google Colabs using tutorial
+
