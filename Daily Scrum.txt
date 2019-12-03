@@ -21,3 +21,16 @@ Nov. 22, 2019
 Learn machine learning using Google Colabs
 Learn basics of panda package and functionalities on their website
 This will help us get a better understanding of implementing machine learning
+
+Nov. 25, 2019
+
+Nov. 26, 2019
+Thanksgiving feast and TED Talks
+
+Dec. 2, 2019
+Exchange Day
+
+Dec. 3, 2019
+Finish up Google Colabs tutorial
+in order to see how machine learning can 
+be implemented into software
