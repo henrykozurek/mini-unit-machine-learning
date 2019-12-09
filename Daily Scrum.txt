@@ -34,3 +34,16 @@ Dec. 3, 2019
 Finish up Google Colabs tutorial
 in order to see how machine learning can 
 be implemented into software
+
+Dec. 4, 2019
+Beginning to implement pandas package to create a basic machine learning model.
+Will follow our notes to guide us and write the code in a google colab test file.
+
+Dec. 5, 2019
+Use the iris data set to implement the machine learning model.
+Testing out different functionalities of the model
+like visualizing data, training the model.
+
+Dec. 6, 2019
+We will try using the model with a different data set if we can find one that is compatible.
+Get more familiar with implementation and functionalities of different pandas and numpy functions.
